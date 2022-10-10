@@ -1,4 +1,5 @@
 # AML_proj_24
 
-# Titanic Data
-https://www.kaggle.com/competitions/titanic/overview
+# Drug Consumption Data
+
+https://www.kaggle.com/code/obeykhadija/drug-consumption-prediction/data
