@@ -1,6 +1,6 @@
 # AML_proj_24
 
-Please find notebook for submissions inside the /submission folder
+Please find notebook for submissions inside the /submissions folder
 
 # Drug Consumption Data
 
